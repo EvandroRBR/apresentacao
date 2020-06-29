@@ -55,8 +55,8 @@ function App() {
         restaurantes entram nessa categoria.<br/><br/>   
         Em seguida consegui um trabalho como garçom em um hotel, Blue Tree Tower, 
         e com alguns meses trabalhando e me destacando como garçom surgiu uma vaga 
-        na recepção; pedi uma oportunidade, já que eu estudava inglês nessa época e 
-        seria uma ótima oportunidade para aperfeiçoar o idioma que estava aprendendo 
+        na recepção; me candidatei, já que eu estudava inglês nessa época e 
+        seria uma grande oportunidade para aperfeiçoar o idioma que estava aprendendo 
         e aprender assuntos mais técnicos da área. Fui aceito e, com isso, logo 
         passei para um cargo de auditoria do hotel, porém o meu grande sonho na 
         época era fazer um intercâmbio, mas com poucos recursos financeiros eu 
@@ -148,8 +148,8 @@ function App() {
           <img className="ads" src={ads} alt="ads"/>
         </section>
         <h3>
-          Atualmente estou no segundo semestre, me destacando entre os melhores da 
-          turma e não me vejo mais seguindo outro caminho. Depois de toda essa jornada, 
+          Atualmente estou no segundo semestre, me esforcando e me destacando, 
+          não me vejo mais seguindo outro caminho. Depois de toda essa jornada, 
           finalmente encontrei o que eu amo fazer, que é desenvolvimento. Busco muitos 
           conhecimentos além do que é passado na faculdade e estou muito focado no 
           desenvolvimento web estudando com base nos cursos da Rocketseat.
@@ -188,7 +188,7 @@ function App() {
         <div className="fatec" id="fatec">
           <h3>
             Além disso, tenho alguns projetos simples que criei na intenção de praticar 
-            e aprender além de outros projetos desenvolvidos na Fatec.<br/><br/>
+            e aprender, também outros projetos desenvolvidos na Fatec.<br/><br/>
             No primeiro semestre ajudei a desenvolver um sistema de irrigação automático 
             com sensores de umidade, luminosidade e temperatura usando um arduino, 
             fiz um estudo sobre a evolução dos estrangeiros no ensino superior brasileiro 
